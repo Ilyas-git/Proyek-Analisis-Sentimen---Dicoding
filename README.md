@@ -48,10 +48,6 @@ conda activate duolingo-sentimen
 pip install pandas numpy matplotlib seaborn nltk sastrawi scikit-learn
 ```
 
-> Di notebook aslinya ada perintah `!pip install sastrawi`. Pastikan paket tersebut terpasang sebelum menjalankan sel preprocessing.
-
----
-
 ## 🧹 Tahapan Preprocessing
 Dilakukan berurutan sebagai berikut (fungsi tersedia di notebook):
 1. **`cleaningText`**: hapus mention, hashtag, “RT”, tautan, angka, tanda baca, newline.
@@ -102,8 +98,8 @@ Label inilah yang dipakai sebagai target saat pelatihan model.
 .
 ├─ File_pelatihan_model.ipynb
 ├─ ulasan_aplikasi_duolingo.csv
-├─ data/                 # (opsional) sumber data mentah
-├─ models/               # (opsional) simpan model terlatih
+├─ File_kode_scrapping.ipynb                
+├─ requirements.txt              
 └─ README.md
 ```
 
