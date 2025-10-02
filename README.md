@@ -114,9 +114,3 @@ Label inilah yang dipakai sebagai target saat pelatihan model.
 
 ---
 
-## ✍️ Lisensi
-Gunakan lisensi sesuai kebutuhan (mis. MIT). Jika dataset berasal dari pihak ketiga, pastikan mematuhi ketentuan penggunaan datanya.
-
----
-
-_Diperbarui: 2025-10-02 11:03 _
